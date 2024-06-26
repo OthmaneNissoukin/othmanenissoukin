@@ -5,7 +5,9 @@
 
 - 🌱 I’m currently learning Javascript backend framework **NodeJS, ExpressJS and MongoDB course by Jonas Schmedtmann**
 
-- 👨‍💻 All of my projects are available at [https://github.com/OthmaneNissoukin?tab=repositories](https://github.com/OthmaneNissoukin?tab=repositories)
+- 🚀 And you can visit my portfolio at You [https://nissoukin-othmane-portfolio.free.nf/](https://nissoukin-othmane-portfolio.free.nf/)
+  
+- 👨‍💻 All of my projects repositories are available at [https://github.com/OthmaneNissoukin?tab=repositories](https://github.com/OthmaneNissoukin?tab=repositories)
 
 - 📫 How to reach me **trigger2000p@gmail.com**
 
