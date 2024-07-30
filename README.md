@@ -14,7 +14,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://codepen.io/othmane niss" target="blank"><img align="center" src="https://img.shields.io/badge/CodePen-000000.svg?style=for-the-badge&logo=CodePen&logoColor=white" alt="othmane niss" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/othmane-nissoukin-a440a42a2" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="www.linkedin.com/in/othmane-nissoukin-a440a42a2" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/othmane-nissoukin" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="www.linkedin.com/in/othmane-nissoukin-a440a42a2" /></a>
 <a href="https://stackoverflow.com/users/22419537" target="blank"><img align="center" src="https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=white" alt="22419537" /></a>
 </p>
 
