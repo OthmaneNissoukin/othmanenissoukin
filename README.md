@@ -5,7 +5,8 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Othmane Nissoukin</h1>
-<h3 align="center">Obssessed with web developement and I'm exsited to learn new techs, frameworks and practice them in this journey as a web developer.</h3>
+<h3 align="center">Passionate about web development, constantly exploring new technologies and frameworks. I enjoy building full-stack applications and continuously improving my skills through hands-on projects.</h3>
+
 
 <p align="center"> <img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg" alt="othmanenissoukin" />  <img src="https://komarev.com/ghpvc/?username=othmanenissoukin&label=Profile%20views&color=27cbec&style=flat" alt="othmanenissoukin" /> </p>
 
@@ -33,6 +34,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
 <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" />
 <img src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" />
 <img src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white" />
@@ -40,7 +42,7 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=othmanenissoukin&show_icons=true&locale=en&layout=compact" alt="othmanenissoukin" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=othmanenissoukin&show_icons=true&locale=en&layout=compact&hide=css,less" alt="othmanenissoukin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=othmanenissoukin&show_icons=true&theme=dracula&title_color=d7e515&text_color=e0e0e0&bg_color=373434&locale=en" alt="othmanenissoukin" /></p>
 
