@@ -10,13 +10,10 @@
 
 <p align="center"> <img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg" alt="othmanenissoukin" />  <img src="https://komarev.com/ghpvc/?username=othmanenissoukin&label=Profile%20views&color=27cbec&style=flat" alt="othmanenissoukin" /> </p>
 
-- 🌱 I’m currently learning Javascript framework **NextJS by Jonas Schmedtmann on Udemy**
+- 🚀 And you can visit my portfolio at [https://othmanenissoukin.com/](https://othmanenissoukin.com).
+- 💻 All my public repositories are available at [https://github.com/OthmaneNissoukin?tab=repositories](https://github.com/OthmaneNissoukin?tab=repositories)
 
-- 🚀 And you can visit my portfolio at You [https://nissoukin-othmane-portfolio.free.nf/](https://nissoukin-othmane-portfolio.free.nf/)
-  
-- 👨‍💻 All of my projects repositories are available at [https://github.com/OthmaneNissoukin?tab=repositories](https://github.com/OthmaneNissoukin?tab=repositories)
-
-- 📫 How to reach me **trigger2000p@gmail.com**
+- 📫 How to reach me **contact@othmanenissoukin.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
