@@ -10,7 +10,7 @@
 
 <p align="center"> <img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg" alt="othmanenissoukin" />  <img src="https://komarev.com/ghpvc/?username=othmanenissoukin&label=Profile%20views&color=27cbec&style=flat" alt="othmanenissoukin" /> </p>
 
-- 🚀 And you can visit my portfolio at [https://othmanenissoukin.com/](https://othmanenissoukin.com).
+- 🚀 And you can visit my portfolio at [https://othmanenissoukin.vercel.app/](https://othmanenissoukin.vercel.app).
 - 💻 All my public repositories are available at [https://github.com/OthmaneNissoukin?tab=repositories](https://github.com/OthmaneNissoukin?tab=repositories)
 
 - 📫 How to reach me **contact@othmanenissoukin.com**
